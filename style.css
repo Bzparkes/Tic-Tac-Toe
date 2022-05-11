@@ -1,0 +1,29 @@
+/* body {
+    color: whitesmoke;
+    background: black;
+} */
+
+header {
+    margin-top: 100px;
+}
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 550px;
+    background-color: black;
+    /* padding: 10px; */
+    margin: auto;
+} 
+
+.box {
+    display: flex;
+    background-color: black;
+    border: 3px solid white;
+    padding: 80px;
+    font-size: xx-large;
+    color: white;
+}
